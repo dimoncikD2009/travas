@@ -20,7 +20,7 @@ npm install
 
 You also need to create a **front\src\private.js** file with the following content:
 
-####Javascript　
+#### Javascript　
 ```javascript
 export const teamMembers = [
   {
